@@ -43,16 +43,11 @@ a1b2c3d feat: começando a publicar meus projetos open source
 
 ### 🔭 Projetos
 
-<!--
-  Descomente e preencha conforme os projetos forem saindo. Fixe os melhores em
-  "Customize your pins" no perfil também.
-
 | Projeto | O que faz | Stack |
 |---|---|---|
-| [nome-do-projeto](https://github.com/DevNOG/nome-do-projeto) | Uma frase sobre o problema que resolve | C# |
--->
+| [**brdocs**](https://github.com/DevNOG/brdocs) | Valida, formata e gera CPF e CNPJ, incluindo o novo **CNPJ alfanumérico**. Com `npx brdocs audit`, encontra no seu projeto o código que vai quebrar com ele. | TypeScript · CLI |
 
-> 🚧 Primeiros projetos open source a caminho. Fica de olho nos repositórios fixados abaixo.
+<!-- Novos projetos: adicione uma linha na tabela e fixe o repo em "Customize your pins". -->
 
 ### 📊 GitHub
 
