@@ -65,7 +65,10 @@ a1b2c3d feat: começando a publicar meus projetos open source
 
 </div>
 
+<!--
+  Contato: troque SEU-USUARIO e descomente para mostrar.
+
 ### 📫 Contato
 
-<!-- Adicione seus links: LinkedIn, e-mail, site... -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
+-->
